@@ -22,7 +22,7 @@ robertjcolley04@gmail.com
 
 ## About me
 
-My name is Robert Colley and I am excited about using cutting edge technology to create platforms and solutions to solve the world's problems. I am passionate about React Native and mobile app development and open sources development.
+My name is Robert Colley and I am excited about using cutting edge technology to create platforms and solutions to solve the world's problems. I am passionate about React Native and mobile app development and open sources development. Most of my work is done in private repositories with my other GitHub account for work, but I would be happy to discuss my experiences and knowlege.
 
 ## 🔭 I’m currently working on...
 
