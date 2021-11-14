@@ -26,6 +26,7 @@ My name is Robert Colley and I am excited about using cutting edge technology to
 ##### Open Source Contributions
 
 - [react-native-health](https://github.com/agencyenterprise/react-native-health)
+- [react-native-dynamic](https://github.com/codemotionapps/react-native-dynamic)
 
 <!-- ### Side projects
 
