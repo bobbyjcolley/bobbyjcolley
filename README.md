@@ -4,12 +4,12 @@
 
 ### 📫 How to reach me...
 
-| Current Work Contact                                | Personal Contact            |
-| --------------------------------------------------- | --------------------------- |
-| Robert Colley                                       | Bobby Colley                |
-| Director of Engineering                             |                             |
-| [bobby@nextstep.world](mailto:bobby@nextstep.world) | robertjcolley04@gmail.com   |
-| [@NS-Bobby-C](https://github.com/NS-BOBBY-C)        |                             |
+| Current Work Contact                                | Personal Contact                                 |
+| --------------------------------------------------- | ------------------------------------------------ |
+| Robert Colley                                       | Bobby Colley                                     |
+| Director of Engineering                             |                                                  |
+| [bobby@nextstep.world](mailto:bobby@nextstep.world) | robertjcolley04@gmail.com                        |
+| [@NS-Bobby-C](https://github.com/NS-BOBBY-C)        | [@bobbyjcolley](https://github.com/bobbyjcolley) |
 
 ### About me
 
